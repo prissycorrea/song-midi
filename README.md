@@ -1,4 +1,4 @@
-# song-midi
+# Song Midi
 Desenvolvido em JavaScript Vanilla, o Song Midi é um reprodutor de efeitos sonoros desenvolvido com a intenção de treinar o funcionamento do DOM em JavaScript.
 
 ## Ver projeto ao vivo
